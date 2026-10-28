@@ -1,0 +1,855 @@
+[
+  {
+    "id": 1,
+    "title": "Bengaluru GenAI Summit Hackathon",
+    "venue_type": "In-Person",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2026-11-14",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/bengaluru-genai-2026",
+    "prize_pool": "₹10,00,000",
+    "tags": [
+      "AI",
+      "GenAI",
+      "LLMs",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smart India Hackathon - IIT Hyderabad Edition",
+    "venue_type": "Hybrid",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "date": "2026-11-21",
+    "start_time": "08:30",
+    "registration_url": "https://unstop.com/hackathons/sih-iit-hyderabad-2026",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "Smart Cities",
+      "IoT",
+      "AI",
+      "Open Innovation"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Delhi FinTech BuildSprint",
+    "venue_type": "In-Person",
+    "city": "Delhi NCR",
+    "state": "Delhi",
+    "date": "2026-11-28",
+    "start_time": "09:30",
+    "registration_url": "https://devfolio.co/hackathons/delhi-fintech-build-2026",
+    "prize_pool": "₹7,50,000",
+    "tags": [
+      "FinTech",
+      "UPI",
+      "Banking",
+      "Web3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ETHIndia 2026",
+    "venue_type": "In-Person",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2026-12-04",
+    "start_time": "10:00",
+    "registration_url": "https://ethindia.co/apply",
+    "prize_pool": "₹25,00,000",
+    "tags": [
+      "Web3",
+      "Ethereum",
+      "DeFi",
+      "Smart Contracts"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mumbai MedTech Innovation Sprint",
+    "venue_type": "Hybrid",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "2026-12-12",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/mumbai-medtech-2026",
+    "prize_pool": "₹6,00,000",
+    "tags": [
+      "HealthTech",
+      "AI",
+      "Biotech",
+      "Telemedicine"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pune Cloud & DevOps Hackathon",
+    "venue_type": "In-Person",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "date": "2026-12-19",
+    "start_time": "09:30",
+    "registration_url": "https://devpost.com/hackathons/pune-devops-hack-2026",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "DevOps",
+      "Kubernetes",
+      "Cloud",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Chennai AgriTech Solutions Hackathon",
+    "venue_type": "In-Person",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "date": "2027-01-08",
+    "start_time": "09:00",
+    "registration_url": "https://unstop.com/hackathons/chennai-agritech-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "AgriTech",
+      "IoT",
+      "Drones",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Jaipur CyberSuraksha Hackathon",
+    "venue_type": "In-Person",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "date": "2027-01-16",
+    "start_time": "10:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/jaipur-cybersuraksha-2027",
+    "prize_pool": "₹4,50,000",
+    "tags": [
+      "Cybersecurity",
+      "Zero Trust",
+      "Infosec",
+      "Cryptography"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Kolkata DataCon AI Challenge",
+    "venue_type": "Hybrid",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "date": "2027-01-23",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/kolkata-datacon-ai-2027",
+    "prize_pool": "₹3,50,000",
+    "tags": [
+      "Data Science",
+      "Machine Learning",
+      "Big Data",
+      "AI"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Kochi MarineTech & Green Port Hack",
+    "venue_type": "In-Person",
+    "city": "Kochi",
+    "state": "Kerala",
+    "date": "2027-01-30",
+    "start_time": "08:30",
+    "registration_url": "https://unstop.com/hackathons/kochi-marinetech-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "CleanTech",
+      "MarineTech",
+      "IoT",
+      "Logistics"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ahmedabad RetailTech Sprint",
+    "venue_type": "In-Person",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "date": "2027-02-06",
+    "start_time": "09:30",
+    "registration_url": "https://devfolio.co/hackathons/ahmedabad-retailtech-2027",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "E-Commerce",
+      "RetailTech",
+      "AI",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "National Open Source India Hack",
+    "venue_type": "Virtual",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2027-02-12",
+    "start_time": "11:00",
+    "registration_url": "https://github.com/events/osi-india-hack-2027",
+    "prize_pool": "₹8,00,000",
+    "tags": [
+      "Open Source",
+      "DevTools",
+      "Rust",
+      "Golang"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "IIT Bombay Techfest HackAI",
+    "venue_type": "In-Person",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "2027-02-20",
+    "start_time": "08:00",
+    "registration_url": "https://techfest.org/hackathon-2027",
+    "prize_pool": "₹12,00,000",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Computer Vision",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Chandigarh EdTech Transform Hackathon",
+    "venue_type": "In-Person",
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "date": "2027-02-27",
+    "start_time": "09:00",
+    "registration_url": "https://unstop.com/hackathons/chandigarh-edtech-2027",
+    "prize_pool": "₹3,00,000",
+    "tags": [
+      "EdTech",
+      "Gamification",
+      "AI",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Bhubaneswar Smart Mobility & EV Challenge",
+    "venue_type": "Hybrid",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "date": "2027-03-06",
+    "start_time": "09:30",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/bhubaneswar-smart-mobility-2027",
+    "prize_pool": "₹5,50,000",
+    "tags": [
+      "Electric Vehicles",
+      "CleanTech",
+      "IoT",
+      "Smart Cities"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Indore Logistics & Supply Chain Hack",
+    "venue_type": "In-Person",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "date": "2027-03-13",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/indore-logistics-hack-2027",
+    "prize_pool": "₹3,50,000",
+    "tags": [
+      "Supply Chain",
+      "Logistics",
+      "Operations",
+      "AI"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Goa Web3 Beach Hackathon",
+    "venue_type": "In-Person",
+    "city": "Panaji",
+    "state": "Goa",
+    "date": "2027-03-20",
+    "start_time": "10:00",
+    "registration_url": "https://devfolio.co/hackathons/goa-web3-beach-2027",
+    "prize_pool": "₹15,00,000",
+    "tags": [
+      "Web3",
+      "Solana",
+      "DeFi",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Coimbatore Industrial IoT Hackathon",
+    "venue_type": "In-Person",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "date": "2027-03-27",
+    "start_time": "09:00",
+    "registration_url": "https://unstop.com/hackathons/coimbatore-iiot-2027",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "Industrial IoT",
+      "Industry 4.0",
+      "Embedded Systems",
+      "Hardware"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Noida AI in Healthcare Challenge",
+    "venue_type": "Hybrid",
+    "city": "Delhi NCR",
+    "state": "Uttar Pradesh",
+    "date": "2027-04-03",
+    "start_time": "09:30",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/noida-ai-healthcare-2027",
+    "prize_pool": "₹6,00,000",
+    "tags": [
+      "HealthTech",
+      "AI",
+      "Diagnostics",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "IIT Madras Shaastra HackSprint",
+    "venue_type": "In-Person",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "date": "2027-04-10",
+    "start_time": "08:30",
+    "registration_url": "https://shaastra.org/hackathon-2027",
+    "prize_pool": "₹10,00,000",
+    "tags": [
+      "Quantum Computing",
+      "DeepTech",
+      "AI",
+      "Robotics"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Gurugram Enterprise SaaS Hack",
+    "venue_type": "In-Person",
+    "city": "Delhi NCR",
+    "state": "Haryana",
+    "date": "2027-04-17",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/gurugram-saas-hack-2027",
+    "prize_pool": "₹8,00,000",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cloud",
+      "Microservices"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Lucknow Digital Governance Hackathon",
+    "venue_type": "Hybrid",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "date": "2027-04-24",
+    "start_time": "09:30",
+    "registration_url": "https://unstop.com/hackathons/lucknow-digi-gov-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "GovTech",
+      "Public Policy",
+      "Open Data",
+      "Citizen Services"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Nagpur Clean Energy Innovation Hack",
+    "venue_type": "In-Person",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "date": "2027-05-01",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/nagpur-cleanenergy-2027",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "CleanTech",
+      "Solar Energy",
+      "IoT",
+      "GreenTech"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "All-India Women in Tech Hackathon",
+    "venue_type": "Virtual",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2027-05-08",
+    "start_time": "10:00",
+    "registration_url": "https://unstop.com/hackathons/women-in-tech-india-2027",
+    "prize_pool": "₹7,50,000",
+    "tags": [
+      "Diversity",
+      "Full Stack",
+      "AI",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Hyderabad BioInformatics Challenge",
+    "venue_type": "Hybrid",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "date": "2027-05-15",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/hyderabad-bioinfo-2027",
+    "prize_pool": "₹6,50,000",
+    "tags": [
+      "BioTech",
+      "Genomics",
+      "AI",
+      "Data Science"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Visakhapatnam FinTech & Blockchain Conclave",
+    "venue_type": "In-Person",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "date": "2027-05-22",
+    "start_time": "09:30",
+    "registration_url": "https://unstop.com/hackathons/vizag-fintech-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "FinTech",
+      "Blockchain",
+      "Digital Payments",
+      "Security"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Surat TextileTech & Smart Manufacturing Hack",
+    "venue_type": "In-Person",
+    "city": "Surat",
+    "state": "Gujarat",
+    "date": "2027-05-29",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/surat-textiletech-2027",
+    "prize_pool": "₹4,50,000",
+    "tags": [
+      "Industry 4.0",
+      "Manufacturing",
+      "AI",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "BITS Pilani APOGEE Hackathon",
+    "venue_type": "In-Person",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "date": "2027-06-05",
+    "start_time": "08:30",
+    "registration_url": "https://bits-apogee.org/hackathon-2027",
+    "prize_pool": "₹6,00,000",
+    "tags": [
+      "Algorithms",
+      "Web3",
+      "AI",
+      "Competitive Programming"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Thiruvananthapuram SpaceTech & Geospatial Hack",
+    "venue_type": "Hybrid",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "date": "2027-06-12",
+    "start_time": "09:00",
+    "registration_url": "https://unstop.com/hackathons/trivandrum-spacetech-2027",
+    "prize_pool": "₹7,00,000",
+    "tags": [
+      "SpaceTech",
+      "GIS",
+      "Satellite Data",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Patna Agri-InnoTech Hackathon",
+    "venue_type": "In-Person",
+    "city": "Patna",
+    "state": "Bihar",
+    "date": "2027-06-19",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/patna-agri-innotech-2027",
+    "prize_pool": "₹3,50,000",
+    "tags": [
+      "AgriTech",
+      "Rural Innovation",
+      "Mobile",
+      "FinTech"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Guwahati Northeast Climate & Disaster Hack",
+    "venue_type": "In-Person",
+    "city": "Guwahati",
+    "state": "Assam",
+    "date": "2027-06-26",
+    "start_time": "09:30",
+    "registration_url": "https://unstop.com/hackathons/guwahati-climate-hack-2027",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "ClimateTech",
+      "Disaster Management",
+      "IoT",
+      "AI"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "NIT Rourkela HackNITR 6.0",
+    "venue_type": "Hybrid",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "date": "2027-07-03",
+    "start_time": "10:00",
+    "registration_url": "https://hacknitr.com/register",
+    "prize_pool": "₹8,00,000",
+    "tags": [
+      "Open Innovation",
+      "Web3",
+      "AI",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Bengaluru DevFest AI Sprint",
+    "venue_type": "In-Person",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2027-07-10",
+    "start_time": "09:00",
+    "registration_url": "https://gdg.community.dev/events/bengaluru-devfest-2027",
+    "prize_pool": "₹10,00,000",
+    "tags": [
+      "Android",
+      "Flutter",
+      "Firebase",
+      "Gemini API"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Mumbai InsurTech Builder Sprint",
+    "venue_type": "In-Person",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "2027-07-17",
+    "start_time": "09:30",
+    "registration_url": "https://devfolio.co/hackathons/mumbai-insurtech-2027",
+    "prize_pool": "₹6,00,000",
+    "tags": [
+      "InsurTech",
+      "Risk Analytics",
+      "AI",
+      "FinTech"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Kanpur Drone & Autonomous Systems Hack",
+    "venue_type": "In-Person",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "date": "2027-07-24",
+    "start_time": "08:30",
+    "registration_url": "https://unstop.com/hackathons/iitk-drone-hack-2027",
+    "prize_pool": "₹7,50,000",
+    "tags": [
+      "Drones",
+      "Robotics",
+      "Autonomous Systems",
+      "Edge AI"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Pune AutoTech Connected Vehicles Hack",
+    "venue_type": "Hybrid",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "date": "2027-07-31",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/pune-autotech-2027",
+    "prize_pool": "₹8,00,000",
+    "tags": [
+      "Automotive",
+      "Telematics",
+      "Connected Cars",
+      "IoT"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Delhi Cloud Native & Kubernetes Build",
+    "venue_type": "In-Person",
+    "city": "Delhi NCR",
+    "state": "Delhi",
+    "date": "2027-08-07",
+    "start_time": "09:30",
+    "registration_url": "https://devfolio.co/hackathons/delhi-k8s-build-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "DevOps",
+      "Kubernetes",
+      "Cloud Native",
+      "Observability"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Kolkata CreativeTech & Gaming Hackathon",
+    "venue_type": "In-Person",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "date": "2027-08-14",
+    "start_time": "10:00",
+    "registration_url": "https://unstop.com/hackathons/kolkata-creativetech-2027",
+    "prize_pool": "₹4,50,000",
+    "tags": [
+      "GameDev",
+      "Unity",
+      "AR/VR",
+      "3D Modeling"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Chennai CyberDefense Capture the Flag & Hack",
+    "venue_type": "Hybrid",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "date": "2027-08-21",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/chennai-cyberdefense-2027",
+    "prize_pool": "₹6,50,000",
+    "tags": [
+      "Cybersecurity",
+      "CTF",
+      "Ethical Hacking",
+      "AppSec"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Bengaluru Clean Air & Water Hackathon",
+    "venue_type": "In-Person",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2027-08-28",
+    "start_time": "09:00",
+    "registration_url": "https://unstop.com/hackathons/bengaluru-clean-air-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "CleanTech",
+      "Environmental",
+      "IoT Sensors",
+      "Data Science"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Hyderabad Agentic AI Grand Challenge",
+    "venue_type": "In-Person",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "date": "2027-09-04",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/hyderabad-agentic-ai-2027",
+    "prize_pool": "₹15,00,000",
+    "tags": [
+      "AI Agents",
+      "LLMs",
+      "Autonomous Agents",
+      "Python"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "VIT Vellore Riviera Hackathon",
+    "venue_type": "In-Person",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "date": "2027-09-11",
+    "start_time": "08:00",
+    "registration_url": "https://vit-riviera.org/hackathon-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "Student",
+      "Open Innovation",
+      "Web Development",
+      "AI"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "India Digital Health Stack Hackathon",
+    "venue_type": "Virtual",
+    "city": "Delhi NCR",
+    "state": "Delhi",
+    "date": "2027-09-18",
+    "start_time": "10:00",
+    "registration_url": "https://unstop.com/hackathons/abdm-health-hack-2027",
+    "prize_pool": "₹10,00,000",
+    "tags": [
+      "HealthTech",
+      "ABDM",
+      "FHIR",
+      "Open APIs"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Jaipur Smart Tourism & Heritage Tech Sprint",
+    "venue_type": "In-Person",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "date": "2027-09-25",
+    "start_time": "09:30",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/jaipur-smart-tourism-2027",
+    "prize_pool": "₹3,50,000",
+    "tags": [
+      "TourismTech",
+      "AR/VR",
+      "Culture",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Ahmedabad FinTech Frontier",
+    "venue_type": "In-Person",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "date": "2027-10-09",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/ahmedabad-fintech-frontier-2027",
+    "prize_pool": "₹6,00,000",
+    "tags": [
+      "FinTech",
+      "GIFT City",
+      "Trading",
+      "Algorithmic Finance"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "IIIT Delhi HackCBS 9.0",
+    "venue_type": "Hybrid",
+    "city": "Delhi NCR",
+    "state": "Delhi",
+    "date": "2027-10-16",
+    "start_time": "09:00",
+    "registration_url": "https://hackcbs.tech/register",
+    "prize_pool": "₹8,00,000",
+    "tags": [
+      "Student",
+      "Hackathon",
+      "Full Stack",
+      "AI",
+      "Web3"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Kochi AI in Hospitality & Tourism",
+    "venue_type": "In-Person",
+    "city": "Kochi",
+    "state": "Kerala",
+    "date": "2027-10-23",
+    "start_time": "09:30",
+    "registration_url": "https://unstop.com/hackathons/kochi-hospitality-ai-2027",
+    "prize_pool": "₹4,00,000",
+    "tags": [
+      "Hospitality",
+      "AI",
+      "Conversational AI",
+      "CRM"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Bhubaneswar Women in DeepTech Hack",
+    "venue_type": "Hybrid",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "date": "2027-11-06",
+    "start_time": "09:00",
+    "registration_url": "https://devfolio.co/hackathons/bhubaneswar-women-deeptech-2027",
+    "prize_pool": "₹5,00,000",
+    "tags": [
+      "DeepTech",
+      "AI",
+      "Quantum",
+      "Diversity"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Pune Open Banking & Payments Sprint",
+    "venue_type": "In-Person",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "date": "2027-11-20",
+    "start_time": "09:00",
+    "registration_url": "https://hackerearth.com/challenges/hackathon/pune-open-banking-2027",
+    "prize_pool": "₹7,00,000",
+    "tags": [
+      "FinTech",
+      "Open Banking",
+      "APIs",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "National Developer Summit Mega Hack 2027",
+    "venue_type": "Hybrid",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "date": "2027-12-11",
+    "start_time": "08:30",
+    "registration_url": "https://devfolio.co/hackathons/national-dev-summit-2027",
+    "prize_pool": "₹30,00,000",
+    "tags": [
+      "AI",
+      "Cloud",
+      "Web3",
+      "DevOps",
+      "Open Source"
+    ]
+  }
+]
+

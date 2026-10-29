@@ -81,7 +81,7 @@ async function load(recordSearch=false){
   }
 }
 // Keep the user's search private unless they opt in above.
-if(location.hostname.endsWith('github.io')){$('shareSearch').disabled=true;document.querySelector('.share-search strong').textContent='Search sharing requires the hosted app';document.querySelector('.share-search small').textContent='This static preview can filter hackathons but cannot save search data. Your searches are not sent or stored here.'}
+if(location.hostname.endsWith('github.io')){$('shareSearch').disabled=true;document.querySelector('.share-search strong').textContent='Search sharing requires the hosted app';document.querySelector('.share-search small').textContent='This static preview can filter hackathons but cannot save search data. Your searches are not sent or stored here.';document.querySelector('.admin-link').hidden=true}
 $('cards').addEventListener('click',e=>{const button=e.target.closest('button.register');if(button)showDetails(button.dataset.id)});$('closeDialog').addEventListener('click',closeDetails);$('detailDialog').addEventListener('click',e=>{if(e.target===$('detailDialog'))closeDetails()});$('filters').addEventListener('submit',e=>{e.preventDefault();load(true)});$('reset').addEventListener('click',()=>{$('filters').reset();load()});$('to').addEventListener('change',render);$('type').addEventListener('change',render);$('q').addEventListener('input',render);$('sort').addEventListener('change',render);load();
 </script>
 </body></html>
